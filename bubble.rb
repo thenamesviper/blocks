@@ -24,5 +24,5 @@ def check_if_sorted array
 	end
 	true
 end
-
+	
 print bubble_sort([65,34,66,4234,3434534])
